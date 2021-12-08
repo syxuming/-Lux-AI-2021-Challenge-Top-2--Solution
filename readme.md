@@ -1,6 +1,6 @@
 # Lux-AI-2021-Challenge-Top-2%-Solution
 
-![header](C:\Users\xm\Desktop\header.png)
+![header](https://user-images.githubusercontent.com/22366914/145206873-cab4c152-16da-4476-acbc-30d17e6f0ddb.png)
 
 https://www.kaggle.com/c/lux-ai-2021
 
